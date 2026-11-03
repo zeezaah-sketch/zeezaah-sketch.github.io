@@ -1,0 +1,64 @@
+NUR AZIZAH VIDYA
+Business Intelligence and Product Analytics
+Cimanggis, Depok, Indonesia (Greater Jakarta)
++62 852 4728 4174 | zeezaah@gmail.com
+linkedin.com/in/nur-azizah-vidya-11b675a6 | zeezaah.wordpress.com | github.com/zeezaah-sketch
+
+PROFESSIONAL SUMMARY
+Business intelligence and product analyst with 10+ years turning commercial and operational data into dashboards and analysis that teams use to make decisions. Expert SQL on large datasets, with hands-on BigQuery, Looker, Power BI, Tableau, and Excel. Works from the first question to the decision it changes, and leaves metric definitions and documentation behind so teams can self-serve. Domain experience across e-commerce marketplaces, SaaS, consumer telecom, and lending collections.
+
+CORE SKILLS
+Data and tools: SQL (expert), BigQuery, Looker, Power BI, Tableau, Excel, Python for data analysis, statistical analysis, data mining.
+Analysis: cohort analysis, funnel analysis, retention and churn analysis, customer segmentation, ARPU analysis, trend and pattern analysis, budgeting and forecasting, P&L and commercial analysis.
+Delivery: dashboard design, metric definition, data quality and validation, automated reporting, self-service analytics, stakeholder communication.
+
+PROFESSIONAL EXPERIENCE
+
+PT Amaan - Sr. Business Intelligence Analyst
+Jakarta, Indonesia | Sept 2023 - June 2024
+- Built and maintained the reporting suite for recovery performance, field-team activity, and strategy, used across product, risk, and business reviews.
+- Partnered with product, risk, and business teams to agree metrics and reporting cadence, then turned the analysis into strategy decisions.
+- Ran advanced analysis, including correlation between workforce activity and collection target achievement, and flagged where performance needed correcting.
+
+PT Gudang Ada - Sr. Product Analyst
+Jakarta, Indonesia | July 2022 - April 2023
+- Delivered insight and dashboards for the Seller Marketplace and SaaS business units, covering seller performance and customer health.
+- Partnered with product teams on strategy, using cohort, funnel, and behaviour analysis to explain retention and prioritise the roadmap.
+- Owned analysis and reporting for inventory price recommendation and healthy customer journey, from metric definition to the dashboard teams used.
+
+OLX Indonesia - Advance Analytics Specialist
+Jakarta, Indonesia | Aug 2018 - March 2020
+- Produced reports, insight, dashboards, and strategy input for the OLX business core using statistical techniques and SQL.
+- Identified and interpreted trends and patterns in large, varied data sets, and recommended where the business should act.
+- Worked with marketing and growth teams to prioritise initiatives and to build budgeting and forecasting across business units.
+
+PT Nokia Solutions - Data Analytics APJ
+Jakarta, Indonesia | Aug 2017 - Aug 2018
+- Analysed Telkomsel customer behaviour to improve sales activity across selected regions.
+- Built campaigns that increased month-over-month revenue in target regions.
+
+PT XL Axiata, Tbk - Sr. Officer Postpaid Business Analytics
+Jakarta, Indonesia | Dec 2015 - Aug 2017
+- Prepared post-performance reporting for every postpaid marketing product initiative, so each launch had a clear read on revenue and usage.
+- Owned regular business analytics reports and dashboards, and provided insight on current marketing performance.
+- Coordinated with data engineers to maintain the data foundation behind reporting.
+
+PT XL Axiata, Tbk - Officer in Customer Analytics
+Jakarta, Indonesia | Sept 2013 - Dec 2015
+- Generated actionable insight on customer behaviour and developed customer value management solutions to improve marketing effectiveness.
+- Designed and evaluated churn, usage, and revenue programmes with pricing and campaign teams, including retention frameworks that increased customer spend and ARPU.
+- Monitored usage patterns across all segments, flagged where corrective action was needed, and managed delivery of the recurring reports.
+
+SELECTED ACHIEVEMENTS
+- Retention. Diagnosed a 30-day retention drop in a seller SaaS app using cohort and funnel analysis. Recommended a guided onboarding flow, which the product team shipped, and 30-day retention improved.
+- Operations. Built automated attendance and performance monitoring for field and remote collection teams. Supervisors intervened on lapses in minutes rather than days, replacing manual audits.
+
+EDUCATION
+Master in Information Technology, Universitas Indonesia, 2014-2015.
+Bachelor in Informatics, Telkom Institute of Technology, Bandung, 2008-2012.
+
+LANGUAGES
+Bahasa Indonesia (native), English (professional working proficiency).
+
+PUBLICATION
+Nur Azizah Vidya et al. (2015). Twitter Sentiment to Analyze Net Brand Reputation of Mobile Phone Providers. Procedia Computer Science.

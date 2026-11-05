@@ -27,7 +27,7 @@ main {
 header {
   border-bottom: 2px solid var(--rule);
   padding-bottom: 14px;
-  margin-bottom: 10px;
+  margin-bottom: 22px;
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
@@ -37,19 +37,14 @@ header {
 .identity { min-width: 0; }
 
 .avatar {
-  width: 120px;
-  height: 120px;
+  width: 96px;
+  height: 96px;
+  margin-top: 36px;
   object-fit: cover;
   border: 1px solid #bbb;
   flex: 0 0 auto;
 }
 
-.topnav {
-  font-size: 14px;
-  margin: 0 0 8px;
-}
-
-.topnav a { margin-right: 18px; }
 
 h1 {
   font-size: 30px;
@@ -122,7 +117,7 @@ footer {
   main { padding: 28px 18px 40px; }
   h1 { font-size: 25px; }
   header { gap: 14px; }
-  .avatar { width: 84px; height: 84px; }
+  .avatar { width: 80px; height: 80px; margin-top: 30px; }
 }
 
 @media print {
@@ -130,7 +125,7 @@ footer {
   body { font-size: 10.5pt; line-height: 1.35; }
   main { max-width: none; padding: 0; }
   a { color: #000; text-decoration: none; }
-  footer, .topnav, .avatar { display: none; }
+  footer, .avatar { display: none; }
   article { break-inside: avoid; }
   h2 { break-after: avoid; }
 }
